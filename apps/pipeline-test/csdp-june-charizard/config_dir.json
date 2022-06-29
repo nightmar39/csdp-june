@@ -1,0 +1,15 @@
+{
+  "appName": "pipeline-test",
+  "userGivenName": "pipeline-test",
+  "destNamespace": "csdp-june-charizard",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "basic-flask-pipe",
+  "srcRepoURL": "https://github.com/nightmar39/pipeline-source.git",
+  "srcTargetRevision": "csdp",
+  "labels": {
+    "codefresh_io_entity": "git-source",
+    "codefresh_io_internal": "false"
+  },
+  "exclude": "",
+  "include": ""
+}
