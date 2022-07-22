@@ -1,0 +1,16 @@
+{
+  "appName": "cd-5m-hosted",
+  "userGivenName": "cd-5m-hosted",
+  "destNamespace": "csdp-june-charizard",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "argocd-definitions/dev",
+  "srcRepoURL": "https://github.com/nightmar39/cd-five-mins.git",
+  "srcTargetRevision": "main",
+  "labels": {
+    "codefresh_io_entity": "git-source",
+    "codefresh_io_internal": "false"
+  },
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
