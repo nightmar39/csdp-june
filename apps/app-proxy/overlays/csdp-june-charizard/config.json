@@ -1,1 +1,0 @@
-{"appName":"app-proxy","userGivenName":"app-proxy","destNamespace":"csdp-june-charizard","destServer":"https://kubernetes.default.svc","srcPath":"apps/app-proxy/overlays/csdp-june-charizard","srcRepoURL":"https://github.com/nightmar39/csdp-june.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component","codefresh_io_internal":"true"}}
